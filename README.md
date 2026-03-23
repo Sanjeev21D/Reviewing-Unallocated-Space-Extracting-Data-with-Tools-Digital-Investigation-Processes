@@ -62,6 +62,9 @@ Unallocated Space Analysis and Extracted Data Report
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91397b12-7402-4251-bf28-2afe73fb0676" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c656b4d3-328a-4637-9e5f-8b8f71499302" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcba4623-b8f1-467c-844e-c03f71cc91d6" />
+
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
 
