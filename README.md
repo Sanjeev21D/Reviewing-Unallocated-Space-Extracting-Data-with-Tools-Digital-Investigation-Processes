@@ -43,6 +43,26 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+## OPEN NEW CASE
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00c71a0a-b97b-4b98-ad89-125edc3a3dbd" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa595403-7d33-4e72-8f8f-1c539cdad9ba" />
+## IDENTIFY UNALLOCATED VOLUME
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df47f894-e4c1-4c5e-b318-6a5227fa0cdb" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9296a0ee-5329-49a0-bc4b-f9a7fe66f96f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c89cc56c-ee55-45e9-a9f6-ec169d498a3a" />
+
+
+
+
+
+
+
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9296a0ee-5329-49a0-bc4b-f9a7fe66f96f" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c89cc56c-ee55-45e9-a9f6-ec169d498a3a" />
@@ -61,7 +81,6 @@ Unallocated Space Analysis and Extracted Data Report
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ad973def-967b-48bd-92eb-c73fe04606f4" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00c71a0a-b97b-4b98-ad89-125edc3a3dbd" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fcfd7924-15f1-4519-9267-6a412da464fd" />
 ## RESULT:
