@@ -59,8 +59,6 @@ Unallocated Space Analysis and Extracted Data Report
 
 ## EXTRACT DATA
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c04321c0-5cb2-4d6a-88ac-54c156c67a7e" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3fd69dfc-018f-463d-a17f-065b7cd251c3" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/352475b7-7ed0-4249-a856-bdd9e73ed4ee" />
@@ -68,54 +66,6 @@ Unallocated Space Analysis and Extracted Data Report
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91397b12-7402-4251-bf28-2afe73fb0676" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c656b4d3-328a-4637-9e5f-8b8f71499302" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fb27fd03-595c-4bf1-b835-356c4142cd56" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7314cc09-3f6e-4165-b54c-92ae23e3e893" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f5f033e4-cd88-4a7a-a752-e2e1b85734b1" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/77bb8b73-2e17-4934-becd-b426f5576542" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bf703f85-2f98-46a2-882e-b68801e4db78" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c04321c0-5cb2-4d6a-88ac-54c156c67a7e" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3fd69dfc-018f-463d-a17f-065b7cd251c3" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/352475b7-7ed0-4249-a856-bdd9e73ed4ee" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91397b12-7402-4251-bf28-2afe73fb0676" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c656b4d3-328a-4637-9e5f-8b8f71499302" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcba4623-b8f1-467c-844e-c03f71cc91d6" />
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
